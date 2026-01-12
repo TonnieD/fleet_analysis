@@ -199,7 +199,8 @@ def main():
     cols = [
         'Unit ID', 'Recommendation', 'Make', 'Model', 'Year',
         'Total_Miles', 'Total_Revenue', 'Total_Repair_Cost', 
-        'Repair_CPM', 'Net_Exit_Gain', 'Projected_Net_Value_10Wks',
+        'Repair_CPM', 'Revenue_Per_Mile', 'Net_Exit_Gain', 'Projected_Net_Value_10Wks',
+        'Active_Days', 'Stub_Count',
         'Ownership', 'Monthly_Payment', 'Payoff_Balance', 'Estimated_Market_Value'
     ]
     
